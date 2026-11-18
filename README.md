@@ -18,3 +18,10 @@ It displays a mountain image as a full-screen background.
 1. Download the project files.
 2. Open index.html in a web browser.
 3. The mountain image will appear on the screen.
+
+
+Student Name: Adam Raed Salim Abu Eida
+
+Student ID: 1320251612
+
+Project Name: Mountain Website
